@@ -9,7 +9,7 @@ div {
 }
 h1 {
     font-size: 5em;
-    font-family: sans-serif;
+    font-family: serif;
     text-align: center;
     background-color: rgba(128,168,255,0.3);
     margin-left: 35px;
@@ -19,7 +19,7 @@ h1 {
 }
 h2 {
    font-size: 3em;
-   font-family: serif;
+   font-family: sans-serif;
    text-align: center;
    background-color: rgba(128,168,255,0);
    margin-left: 35px;
