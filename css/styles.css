@@ -74,5 +74,6 @@ table {
   width: 80%;
   padding-left: 50px;
   text-align: center;
+  align: center;
 }
 tr:hover {background-color: #99ccff;}
