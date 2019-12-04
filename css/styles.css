@@ -55,14 +55,12 @@ a {
 }
 ol {
   list-style: inherit;
-  background-color: rgba(128,168,255,0.3);
   padding: 5px;
   margin-left: 35px;
   margin-right: 50px;
 }
 ul {
   list-style: upper-roman;
-  background-color: rgba(128,168,255,0.3);
   padding: 5px;
   margin-left: 35px;
   margin-right: 50px;
