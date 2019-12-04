@@ -75,3 +75,4 @@ table {
   padding-left: 50px;
   text-align: center;
 }
+tr:hover {background-color: #99ccff;}
