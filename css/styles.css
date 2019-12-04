@@ -1,7 +1,6 @@
 body {
     font-family: arial;
-    background-color: pink;
-    color: rgb(0,24,77);
+    background-image: url("images/roman baths.jpg");
 }
 div {
     min-height: 10vh;
@@ -53,9 +52,7 @@ p {
     margin-left: 35px;
     margin-right: 35px;
 }
-a {
-  color: rgb(0,0,0);
-}
+
 ol {
   list-style: inherit;
   padding: 5px;
@@ -73,3 +70,11 @@ p.education {
   margin-left: 35px;
   margin-right: 35px;
 }
+
+table {
+  width: 80%;
+  padding-left: 50px;
+  text-align: center;
+  align: center;
+}
+tr:hover {background-color: #99ccff;}
