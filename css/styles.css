@@ -1,7 +1,6 @@
 body {
     font-family: arial;
-    background-color: rgb(242,242,242);
-    color: rgb(0,24,77);
+    background-image: url("images/roman baths.jpg");
 }
 div {
     min-height: 10vh;
@@ -49,9 +48,7 @@ p {
     margin-left: 35px;
     margin-right: 35px;
 }
-a {
-  color: rgb(0,0,0);
-}
+
 ol {
   list-style: inherit;
   padding: 5px;
