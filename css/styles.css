@@ -58,12 +58,16 @@ ol {
   padding: 5px;
   margin-left: 35px;
   margin-right: 50px;
+  width:80%;
+  text-align: center;
 }
 ul {
   list-style: upper-roman;
   padding: 5px;
   margin-left: 35px;
   margin-right: 50px;
+  width:80%;
+  text-align: center;
 }
 p.education {
   text-align: center;
